@@ -14,31 +14,33 @@ Please create a very small prototype with simple shapes (no art needed).
 
 
 
-Requirements:
+&nbsp;       Requirements:
 
 
 
-1️ Player
+&nbsp;           1️ Player
 
 
 
-Move left/right
-
-Jump
-
-2️ Enemy
+* Move left/right
+* Jump
 
 
 
-Patrols between two points (back and forth)
-
-Slightly chases the player when close
-
-3️ Emotional Trigger
+&nbsp;           2️ Enemy
 
 
 
-A trigger zone that switches the game between two states:
+* Patrols between two points (back and forth)
+* Slightly chases the player when close
+
+
+
+&nbsp;           3️ Emotional Trigger
+
+
+
+* A trigger zone that switches the game between two states:
 
 
 
@@ -46,17 +48,16 @@ Calm Mode
 
 Blind Mode
 
+
+
 This can be something simple like changing:
 
 
 
-background color
-
-a light color
-
-a particle effect
-
-a global variable
+* background color
+* a light color
+* a particle effect
+* a global variable
 
 (Anything that visually communicates two emotional states.)
 
