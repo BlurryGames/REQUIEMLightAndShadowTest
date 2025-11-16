@@ -6,7 +6,7 @@ Note: This is the test I did for REQUIEM: Light and Shadow on 16/11/2025.
 
 
 
-&nbsp;   Overview
+&nbsp;	Overview
 
 
 
@@ -14,11 +14,11 @@ Please create a very small prototype with simple shapes (no art needed).
 
 
 
-&nbsp;       Requirements:
+&nbsp;		Requirements:
 
 
 
-&nbsp;           1️ Player
+&nbsp;			1️) Player
 
 
 
@@ -27,7 +27,7 @@ Please create a very small prototype with simple shapes (no art needed).
 
 
 
-&nbsp;           2️ Enemy
+&nbsp;			2️) Enemy
 
 
 
@@ -36,7 +36,7 @@ Please create a very small prototype with simple shapes (no art needed).
 
 
 
-&nbsp;           3️ Emotional Trigger
+&nbsp;			3️) Emotional Trigger
 
 
 
@@ -63,7 +63,7 @@ This can be something simple like changing:
 
 
 
-&nbsp;   Instructions
+&nbsp;	Instructions
 
 
 
